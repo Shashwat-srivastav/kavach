@@ -1,0 +1,32 @@
+{
+   "gaurdian": [
+        {
+            "name":"Yash",
+            "contact": 9450702570,
+            "mail":"slash@gmail.com",
+            "age":20
+
+        },
+          {
+            "name":"Dhruv",
+            "contact": 7390839385,
+            "mail":"dhruv@gmail.com",
+            "age":20
+
+        },
+                  {
+            "name":"Chota Pandit",
+            "contact": 7985890185,
+            "mail":"chotap@gmail.com",
+            "age":20
+
+        },
+                 {
+            "name":"Shaily",
+            "contact": 639624312,
+            "mail":"shally@gmail.com",
+            "age":20
+
+        }
+    ]
+}
