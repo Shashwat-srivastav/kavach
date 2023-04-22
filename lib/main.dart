@@ -7,7 +7,6 @@ import 'package:suraksha_kavach/gaurdianinfo.dart';
 import "package:velocity_x/velocity_x.dart";
 import 'gaurdianinfo.dart';
 
-// import 'lib/assets/files/data.json';
 void main() {
   runApp(const MyApp());
 }
@@ -28,6 +27,7 @@ class MyApp extends StatelessWidget {
   }
 }
 
+//-------------------------------------------------------------------------------------------------------------
 //police List
 class PoliceStation extends StatefulWidget {
   const PoliceStation({super.key});
@@ -108,6 +108,7 @@ class _PoliceStationState extends State<PoliceStation> {
   }
 }
 
+//-----------------------------------------------------------------------------------------------------------
 //hospital list
 bool f = false;
 
@@ -192,6 +193,7 @@ class _HospitalListState extends State<HospitalList> {
   }
 }
 
+//------------------------------------------------------------------------------------------------------------
 //Gaurdian
 class Gaurdian extends StatefulWidget {
   const Gaurdian({super.key});
@@ -279,6 +281,7 @@ class _GaurdianState extends State<Gaurdian> {
   }
 }
 
+//--------------------------------------------------------------------------------------------------------------
 //Profile
 class Profile extends StatelessWidget {
   const Profile({super.key});
@@ -360,6 +363,7 @@ class Profile extends StatelessWidget {
   }
 }
 
+//-----------------------------------------------------------------------------------------
 //Gaurdian creation
 class GaurdianCreate extends StatelessWidget {
   const GaurdianCreate({super.key});
